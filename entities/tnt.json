@@ -32,9 +32,9 @@
       },
 
       "minecraft:explode": {
-        "fuseLength": 4,
+        "fuseLength": 8,
         "fuseLit": true,
-        "power": 4,
+        "power": 16,
         "causesFire": false
       },
 	    "minecraft:physics": {
