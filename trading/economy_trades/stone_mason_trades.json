@@ -18,7 +18,7 @@
             }
           ],
           "trader_exp": 1,
-          "max_uses": 6,
+          "max_uses": 64,
           "reward_exp": true
         },
         {
@@ -36,7 +36,7 @@
             }
           ],
           "trader_exp": 2,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         }
       ]
@@ -59,7 +59,7 @@
             }
           ],
           "trader_exp": 5,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         },
         {
@@ -93,7 +93,7 @@
             }
           ],
           "trader_exp": 10,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         }
       ]
@@ -130,14 +130,14 @@
             }
           ],
           "trader_exp": 10,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         },
         {
           "wants": [
             {
               "item": "minecraft:emerald",
-              "quantity": 1,
+              "quantity": 16,
               "price_multiplier": 0.05
             }
           ],
@@ -146,73 +146,73 @@
               "choice": [
                 {
                   "item": "minecraft:stained_hardened_clay:0",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:1",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:2",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:3",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:4",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:5",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:6",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:7",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:8",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:9",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:10",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:11",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:12",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:13",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:14",
-                  "quantity": 4
+                  "quantity": 64
                 },
                 {
                   "item": "minecraft:stained_hardened_clay:15",
-                  "quantity": 4
+                  "quantity": 64
                 }
               ]
             }
           ],
           "trader_exp": 20,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         }
       ]
@@ -235,14 +235,14 @@
             }
           ],
           "trader_exp": 15,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         },
         {
           "wants": [
             {
               "item": "minecraft:emerald",
-              "quantity": 1,
+              "quantity": 16,
               "price_multiplier": 0.05
             }
           ],
@@ -250,58 +250,74 @@
             {
               "choice": [
                 {
-                  "item": "minecraft:black_glazed_terracotta"
+                  "item": "minecraft:black_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:blue_glazed_terracotta"
+                  "item": "minecraft:blue_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:brown_glazed_terracotta"
+                  "item": "minecraft:brown_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:cyan_glazed_terracotta"
+                  "item": "minecraft:cyan_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:gray_glazed_terracotta"
+                  "item": "minecraft:gray_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:green_glazed_terracotta"
+                  "item": "minecraft:green_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:light_blue_glazed_terracotta"
+                  "item": "minecraft:light_blue_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:lime_glazed_terracotta"
+                  "item": "minecraft:lime_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:magenta_glazed_terracotta"
+                  "item": "minecraft:magenta_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:orange_glazed_terracotta"
+                  "item": "minecraft:orange_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:pink_glazed_terracotta"
+                  "item": "minecraft:pink_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:purple_glazed_terracotta"
+                  "item": "minecraft:purple_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:red_glazed_terracotta"
+                  "item": "minecraft:red_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:silver_glazed_terracotta"
+                  "item": "minecraft:silver_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:white_glazed_terracotta"
+                  "item": "minecraft:white_glazed_terracotta",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:yellow_glazed_terracotta"
+                  "item": "minecraft:yellow_glazed_terracotta",
+                  "quantity": 64
                 }
               ]
             }
           ],
           "trader_exp": 30,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         }
       ]
@@ -313,7 +329,7 @@
           "wants": [
             {
               "item": "minecraft:emerald",
-              "quantity": 1,
+              "quantity": 64,
               "price_multiplier": 0.05
             }
           ],
@@ -321,16 +337,18 @@
             {
               "choice": [
                 {
-                  "item": "minecraft:quartz_block:0"
+                  "item": "minecraft:quartz_block:0",
+                  "quantity": 64
                 },
                 {
-                  "item": "minecraft:quartz_block:2"
+                  "item": "minecraft:quartz_block:2",
+                  "quantity": 64
                 }
               ]
             }
           ],
           "trader_exp": 0,
-          "max_uses": 5,
+          "max_uses": 64,
           "reward_exp": true
         }
       ]
