@@ -21,7 +21,7 @@
                 }
               ],
               "trader_exp": 1,
-              "max_uses": 6,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -33,18 +33,18 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": 1,
+                  "quantity": 16,
                   "price_multiplier": 0.05
                 }
               ],
               "gives": [
                 {
                   "item": "minecraft:redstone",
-                  "quantity": 4
+                  "quantity": 64
                 }
               ],
               "trader_exp": 2,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -72,7 +72,7 @@
                 }
               ],
               "trader_exp": 5,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -84,18 +84,18 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": 1,
+                  "quantity": 16,
                   "price_multiplier": 0.05
                 }
               ],
               "gives": [
                 {
                   "item": "minecraft:dye:4",
-                  "quantity": 1
+                  "quantity": 16
                 }
               ],
               "trader_exp": 10,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -123,7 +123,7 @@
                 }
               ],
               "trader_exp": 10,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -135,18 +135,18 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": 4,
+                  "quantity": 64,
                   "price_multiplier": 0.05
                 }
               ],
               "gives": [
                 {
                   "item": "minecraft:glowstone_dust",
-                  "quantity": 1
+                  "quantity": 16
                 }
               ],
               "trader_exp": 20,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -174,7 +174,7 @@
                 }
               ],
               "trader_exp": 15,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             },
             {
@@ -192,7 +192,7 @@
                 }
               ],
               "trader_exp": 20,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -204,18 +204,18 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": 5,
+                  "quantity": 20,
                   "price_multiplier": 0.05
                 }
               ],
               "gives": [
                 {
                   "item": "minecraft:ender_pearl",
-                  "quantity": 1
+                  "quantity": 4
                 }
               ],
               "trader_exp": 30,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -243,7 +243,7 @@
                 }
               ],
               "trader_exp": 0,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
@@ -266,7 +266,7 @@
                 }
               ],
               "trader_exp": 0,
-              "max_uses": 5,
+              "max_uses": 64,
               "reward_exp": true
             }
           ]
